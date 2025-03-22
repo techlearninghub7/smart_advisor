@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-chroma
+pypdf
+docx2txt
+pandas
+beautifulsoup4
+requests
+google-generativeai
+chromadb
+python-dotenv
+langchain-google-genai
+google-ai-generativelanguage
+textblob
